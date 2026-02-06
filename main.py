@@ -36,7 +36,7 @@ def main(page):
 
     # --- PASSWORD PROTECTION ---
     # Change '1234' to whatever password you want to give the caregiver
-    FAMILY_PASSWORD = "T2529293B" 
+    FAMILY_PASSWORD = "Elliot" 
 
     # --- UI COMPONENTS ---
     weight_display = ft.Text(size=22, weight="bold")
